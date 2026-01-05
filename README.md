@@ -17,6 +17,11 @@ git clone https://github.com/baseergroot/Todo-App.git
 cd Todo-App
 ```
 
+### Create .env file and paste this:
+```bash
+EXPO_PUBLIC_API_URL=https://fast-api-todo-app-one.vercel.app/
+```
+
 ### Install packages:
 ```bash
 pnpm i
