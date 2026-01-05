@@ -1,6 +1,39 @@
-# Minimal Uniwind Template
+# Todo App
 
-This is a [React Native](https://reactnative.dev/) project built with [Expo](https://expo.dev/) and [React Native Reusables](https://reactnativereusables.com).
+This is a Todo app project built with [Expo](https://expo.dev/) and [React Native Reusables](https://reactnativereusables.com).
+
+## Introduction
+
+This is my first react-native-expo project build with expo, uniwind, reusable and fastapi. It demonstrate my skills in react-native, expo-router, uniwind(allow us to use tailwind in react-native), reusbale(component library) and fatsapi as backend. I preffer project based learning that is why i start with the basic project to get confidence and get basic knowledge of the framework and tools around it.
+
+## Start with this repo
+### 1. Clone repo:
+```bash
+git clone https://github.com/baseergroot/Todo-App.git
+```
+
+### Enter into project directory:
+```bash
+cd Todo-App
+```
+
+### Install packages:
+```bash
+pnpm i
+```
+
+### Run development server:
+```bash
+pnpm dev
+```
+
+### See development server:
+```text
+Download an expo go app on android and scan the QR code
+```
+
+
+# To start with same templte
 
 It was initialized using the following command:
 
