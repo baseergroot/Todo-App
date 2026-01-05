@@ -4,7 +4,7 @@ This is a Todo app project built with [Expo](https://expo.dev/) and [React Nativ
 
 ## Introduction
 
-This is my first react-native-expo project build with expo, uniwind, reusable and fastapi. It demonstrate my skills in react-native, expo-router, uniwind(allow us to use tailwind in react-native), reusbale(component library) and fatsapi as backend. I preffer project based learning that is why i start with the basic project to get confidence and get basic knowledge of the framework and tools around it.
+This is my first react-native-expo project build with expo, uniwind, reusable and fastapi. It demonstrate my skills in react-native, expo-router, uniwind(allow us to use tailwind in react-native), reusabale(component library) and fatsapi as backend. I preffer project based learning that is why i start with the basic project to get confidence and get basic knowledge of the framework and tools around it.
 
 ## Start with this repo
 ### 1. Clone repo:
